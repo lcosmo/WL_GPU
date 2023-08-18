@@ -1,6 +1,6 @@
 # WL_GPU
 
-Gpu implementation of the Weisfeiler-Lehman Graph Kernel.
+GPU implementation of the Weisfeiler-Lehman Graph Kernel.
 
 Please, cite the following paper if you use this code:
 
